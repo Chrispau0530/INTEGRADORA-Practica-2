@@ -1,3 +1,7 @@
+https://padlet.com/marcoramirez1/pr-cticas-awos-4a-26kdrh3qdz9n8lyd
+
+
+
 # INTEGRADORA-Practica-2
 Practica de Clase para comenzar a utilizar el GIThub como herramienta para el desarrollo colaborativo control de versiones y documentación del proyecto integrador de la asignatura 
 ### COMANDOS BASICOS PARA EL MAQUETADO
